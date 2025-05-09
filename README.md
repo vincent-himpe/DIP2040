@@ -4,7 +4,7 @@
 ### Features
 - on-board Flash
 - on-board 3V reference (LM4040-3.0). Can be disabled by opening a solder bridge.
-- ESD protected USB-C connector
+- ESD protected, sturdy, through-hole, USB-C connector
 - Reset and BOObuttones. Boot button also available under the USB-C connector so you can poke it with a paperclip
 - Heartbeat LED. can be disabled using a solder bridge
 - USB powered 3V3 regulator. Can be strapped to the 3V3 bus using a solder bridge.
