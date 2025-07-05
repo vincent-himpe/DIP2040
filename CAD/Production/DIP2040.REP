@@ -1,0 +1,336 @@
+*************************************************************
+FileName = DIP2040.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : DIP2040.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DIP2040.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : DIP2040.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : DIP2040.GM4
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DIP2040.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DIP2040.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DIP2040.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D35
+    D36
+    D37
+    D38
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : DIP2040.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DIP2040.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : DIP2040.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D41
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : DIP2040.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : DIP2040.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DIP2040.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D36
+    D37
+    D38
+    D39
+    D40
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DIP2040.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D36
+    D37
+    D38
+    D41
+    D43
+    D44
+    D45
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : DIP2040.GM
+
+
+Used DCodes :
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DIP2040.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D36
+    D37
+    D38
+    D43
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : DIP2040.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+

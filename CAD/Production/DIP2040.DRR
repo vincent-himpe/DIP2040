@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DIP2040.PcbDoc   7/4/2025  9:09:36 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DIP2040-RoundHoles.TXT
+ASCII SlotHoles File : DIP2040-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             64        PTH        208.36mm (8.20inch)
+T2      0.4mm (16mil)                                             Round             16        PTH        17.15mm (0.68inch)
+T3      0.6mm (24mil)                                             Slot              4         PTH        36.16mm (1.42inch)
+T4      0.8mm (31mil)                                             Round             40        PTH        134.62mm (5.30inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              124
+
+Total Processing Time (hh:mm:ss) : 00:00:00
